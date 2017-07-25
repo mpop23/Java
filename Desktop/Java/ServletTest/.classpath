@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/mihaipop/Desktop/jar/javax.json-1.0.4.jar" sourcepath="/Users/mihaipop/.m2/repository/org/glassfish/javax.json/1.0.4/javax.json-1.0.4-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/mihaipop/Desktop/jar/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/mihaipop/Desktop/jar/spring-context-3.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/mihaipop/Desktop/jar/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="/Users/mihaipop/Desktop/jar/activemq-camel-5.8.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
